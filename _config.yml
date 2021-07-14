@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "취미코딩하는 대학원생"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "학교에서 연구비받고 집에서 취미로 코딩하는 취준생."
+  bio              : "학교에서 연구비 받고 집에서 취미로 코딩하는 취준생."
   location         : "South Korea"
   email            :
   links:
