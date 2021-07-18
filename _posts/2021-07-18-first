@@ -1,4 +1,14 @@
-깃허브 블로그 홈페이지 상단 메뉴바 만들기
+
+---
+layout: single
+title:  "블로그 꾸미기."
+
+
+categories: ["Train","python"]
+---
+
+# 깃허브 블로그 홈페이지 상단 메뉴바 만들기
+
 
 # main links
 main:
